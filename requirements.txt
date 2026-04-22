@@ -1,0 +1,7 @@
+numpy
+gymnasium
+imageio
+pygame
+matplotlib
+ipython
+jupyter
